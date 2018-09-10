@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500"
+   height="300"
+   id="svg3034"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lvl_test.svg">
+  <defs
+     id="defs3036" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="276.15801"
+     inkscape:cy="124.46165"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-5"
+     showgrid="false"
+     inkscape:window-width="1260"
+     inkscape:window-height="806"
+     inkscape:window-x="332"
+     inkscape:window-y="76"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3039">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <g
+       id="layer1-5"
+       inkscape:label="Layer 1"
+       transform="matrix(0.51959549,0,0,0.51959549,-42.50633,702.02353)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3008"
+         d="m -11.703135,198.21072 94.622188,0 46.082757,171.98319 51.80779,0 41.58467,155.19609 113.88856,0 21.60924,-37.42832 48.64162,0 21.41903,37.09885 20.0405,0 57.97362,-100.41326 52.58511,0 62.56782,233.50626 62.96242,0 75.53346,-281.89471 135.21913,0 28.1097,104.90682 57.11266,0 80.56326,213.37141 c -378.37197,3.30176 -682.79604,0.63337 -1072.652,2.01617 z"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="ccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>
